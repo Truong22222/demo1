@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TestCase_LoginFail_AccUnk</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a8c3ecca-6baa-46d2-b90f-1664de0ec96b</testCaseGuid>
+</TestCaseEntity>
